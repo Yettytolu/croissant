@@ -1,3 +1,27 @@
 body {
-  background: rgb(143, 237, 237);
+  background: rgb(241, 222, 212);
+}
+/*img {
+  background-color: rgb(143, 237, 237);
+}
+*/
+h1 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+footer {
+  text-align: center;
+  margin-bottom: 10px;
+}
+footer a {
+  margin: 0 10px;
+  color: brown;
+}
+img {
+  width: 750px;
+  display: block;
+  max-width: 100%;
+  border-radius: 6px;
+  margin: 20px auto;
 }
